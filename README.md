@@ -605,3 +605,7 @@ For issues, questions, or contributions:
 - Review contract documentation in `/contracts/src/`
 
 ---
+
+## License
+
+This repository is released under the MIT License. See the [LICENSE](LICENSE) file for details.
